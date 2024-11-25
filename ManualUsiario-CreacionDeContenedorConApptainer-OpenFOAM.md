@@ -18,5 +18,6 @@ Para este submit file, se tiene lo siguiente:
 Si se sigue la nomenclatura propuesta, estarán nombrados con el  número de trabajo, el proceso y un sufijo que indica su contenido
 
 *ShouldTransferFiles:* indica que se quiere realizar la transferencia de archivos entre el nodo submit y el worker, y que esta transferencia se realizará en la finalización del trabajo.
+
 *+xcount:* indica el número de cores que se van a utilizar para la ejecución del trabajo.
 *queue:* indica que el trabajo debe ser encolado.
