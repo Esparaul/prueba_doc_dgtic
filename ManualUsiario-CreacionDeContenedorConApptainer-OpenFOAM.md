@@ -9,5 +9,6 @@ Prerrequisitos:
 ## Trabajo de HTCondor.
 Para enviar un trabajo y ser encolado, se hace mediante un submit file, el cual contiene el archivo con las instrucciones a ejecutar, las especificaciones de cómo se va a ejecutar, los archivos que se van a generar y el número de trabajos a ejecutar.
 
-Para este submit file, se tiene lo siguiente: 
+Para este submit file, se tiene lo siguiente:
+
 *executable:* el shell script que se da como ejecutable del trabajo
